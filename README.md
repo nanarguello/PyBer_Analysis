@@ -10,7 +10,7 @@ A written report for the Pyber analysis
 
 ## Results 
 
-https://github.com/nanarguello/PyBer_Analysis/blob/main/analysis/pyber_summary_dataframe.png
+https://github.com/nanarguello/PyBer_Analysis/blob/main/analysis/pyber_summary_dataframe.png?raw=true
 
 Our analysis shows disproportions between the three city types (“Rural”, “Suburban” and “Urban”). Urban areas have more rides, drivers and total fares. The average fare per ride is the lowest of the three city types and so is the average fare per driver.
 Rural cities have the lowest total of rides, drivers and fares, however the average fare per ride is the highest just like the average fare per driver.
