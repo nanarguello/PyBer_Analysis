@@ -15,7 +15,7 @@ https://github.com/nanarguello/PyBer_Analysis/blob/main/analysis/pyber_summary_d
 Our analysis shows disproportions between the three city types (“Rural”, “Suburban” and “Urban”). Urban areas have more rides, drivers and total fares. The average fare per ride is the lowest of the three city types and so is the average fare per driver.
 Rural cities have the lowest total of rides, drivers and fares, however the average fare per ride is the highest just like the average fare per driver.
 
-![alt text] (https://github.com/nanarguello/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+https://github.com/nanarguello/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true
 
 When reviewing the line chart, we can see that fares are higher between February and March for the three city types. During April, the rides are the lowest in the suburban areas, but they are the highest in rural cities.
 
